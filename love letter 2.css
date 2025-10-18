@@ -240,7 +240,7 @@ body {
   align-items: center;
 
   min-height: 100vh;
-  background-image: url("https://i.pinimg.com/736x/b5/9e/59/b59e591da7eb192d0e31a7ed6e0856d0.jpg");
+  background-image: url("https://i.pinimg.com/736x/78/01/f7/7801f74b0f673237339bb8334deb1056.jpg");
   background-size: cover;
   background-position: center;
   background-color: #f0e6f6; /* Soft lavender for a romantic, dreamy feel */
@@ -312,4 +312,5 @@ body {
     opacity: 0;
   }
 }
+
 
